@@ -13,6 +13,6 @@
 
 ![DDT source code with JUnit](https://github.com/Terry2002/math-util-ant-se1609/blob/main/screen-shots/ddt-source-using-JUnit.png) 
 
-#### Connect me via tienst2002@gmail.com
+#### Connect me via nvtiendev@gmail.com
 
-#### Copyright &#169; Terry
+#### Copyright &#169; nvtiendev
